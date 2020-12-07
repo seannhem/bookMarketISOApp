@@ -1,0 +1,6 @@
+framework module Pods_cmpe131Tests {
+  umbrella header "Pods-cmpe131Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
